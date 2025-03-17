@@ -1,0 +1,6 @@
+2111044
+2113204
+Schede madri:
+- GIGABYTE B650 EAGLE AX
+- MSI MAG B850 Tomahawk Wifi
+- ASRock X870E Taichi
