@@ -1,4 +1,5 @@
 2111044
 2113204
-[Processori](processori.md)
-[Schede madri](schede_madri.md)
+# Componenti
+- [Processori](componenti/processori.md)
+- [Schede madri](componenti/schede_madri.md)
